@@ -22,6 +22,11 @@ List<Audio> songs = [
           title: 'Beautiful',
           artist: 'Eminem',
           image: const MetasImage.asset('assets/916WuJt833L._SS500_.jpg'))),
+  Audio('assets/Perfect.mp3',
+      metas: Metas(
+          title: 'Perfect',
+          artist: 'Ed Sheeran',
+          image: const MetasImage.asset('assets/perfect.jpg'))),
 ];
 
 String durationFormat(Duration duration) {
