@@ -37,6 +37,9 @@ dependencies:
   assets_audio_player: ^3.0.5
   sleek_circular_slider: ^2.0.1
   palette_generator: ^0.3.3+2
+  path: ^1.6.4
+  path_provider_ex: ^1.0.1
+  flutter_file_manager: ^0.2.0
 
 dev_dependencies:
   flutter_test:
