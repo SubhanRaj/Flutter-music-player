@@ -44,10 +44,10 @@ class _PlaylistPageState extends State<PlaylistPage>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey.withOpacity(.2),
+      backgroundColor: Colors.black.withOpacity(.1),
       appBar: AppBar(
         title: const Text(
-          'Music Player',
+          'Music Player by Masterofcosmos',
           style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
         ),
         centerTitle: false,
