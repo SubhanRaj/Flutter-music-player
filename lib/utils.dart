@@ -37,6 +37,11 @@ List<Audio> songs = [
           title: 'Lover',
           artist: 'Taylor Swift',
           image: const MetasImage.asset('assets/Lover.png'))),
+  Audio('assets/Shape of You.mp3',
+      metas: Metas(
+          title: 'Shape of You',
+          artist: 'Ed Sheeran',
+          image: const MetasImage.asset('assets/Shape of You.png'))),
 ];
 
 String durationFormat(Duration duration) {
